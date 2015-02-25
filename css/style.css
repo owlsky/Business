@@ -1,0 +1,18 @@
+body {
+  position: relative;
+  padding-top: 50px; }
+
+blockquote {
+  border-left: none; }
+
+.bg-primary {
+  background-color: #709dca; }
+
+.bg-warning {
+  color: #fff;
+  background-color: #ffc155; }
+
+.bg-info {
+  background-color: #e7edf3; }
+
+/*# sourceMappingURL=style.css.map */
